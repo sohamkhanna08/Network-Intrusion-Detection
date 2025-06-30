@@ -1,4 +1,4 @@
-# Network Intrusion Detection using Machine Learning
+![image](https://github.com/user-attachments/assets/f8833c8b-8256-4cd1-8ec4-3c8bcf9955ba)# Network Intrusion Detection using Machine Learning
 
 ## 📚 Introduction
 
@@ -60,16 +60,13 @@ We chose the **K-Nearest Neighbors (KNN)** algorithm due to its simplicity and i
 
 ---
 
-## 📊 Performance Metrics
+## 📊 Results
 
-| Metric    | Description                                         |
-| --------- | --------------------------------------------------- |
-| Accuracy  | Proportion of total correct predictions             |
-| Precision | True Positives / (True Positives + False Positives) |
-| Recall    | True Positives / (True Positives + False Negatives) |
-| F1-Score  | Harmonic mean of Precision and Recall               |
+This heatmap shows correlation among features.
+![image](https://github.com/user-attachments/assets/50e216bc-fb07-469b-86ad-2c0d7cc03ee2)
 
-The model achieved good accuracy and showed clear separation between classes in the confusion matrix visualization.
+Confusion matrix shows classification performance across classes.
+![image](https://github.com/user-attachments/assets/ae64e1e9-4479-40aa-93e2-704aa8e26d43)
 
 ---
 
