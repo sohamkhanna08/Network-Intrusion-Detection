@@ -10,7 +10,7 @@ This project implements a **Network Intrusion Detection System (NIDS)** using su
 
 ## 📂 Dataset Choice
 
-I used the **KDD Cup 1999 dataset** ([available on Kaggle](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection)), a widely recognized benchmark dataset for intrusion detection research. The dataset simulates a military network environment subjected to various attacks and normal traffic, capturing different types of TCP/IP connections.
+I used the **Network Intrusion Detection dataset** ([available on Kaggle](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection)), a widely recognized benchmark dataset for intrusion detection research. The dataset simulates a military network environment subjected to various attacks and normal traffic, capturing different types of TCP/IP connections.
 
 **Key Characteristics:**
 
@@ -93,7 +93,7 @@ The model achieved good accuracy and showed clear separation between classes in 
 
 ## 📜 References
 
-* [KDD Cup 1999 Dataset on Kaggle](https://www.kaggle.com/datasets/benjaminvalentine/kddcup99)
+* [Network Intrusion Detection dataset](https://www.kaggle.com/datasets/benjaminvalentine/kddcup99)
 * scikit-learn documentation
 * seaborn & matplotlib documentation
 
