@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f8833c8b-8256-4cd1-8ec4-3c8bcf9955ba)# Network Intrusion Detection using Machine Learning
+# Network Intrusion Detection using Machine Learning
 
 ## 📚 Introduction
 
