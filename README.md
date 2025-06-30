@@ -90,7 +90,7 @@ Confusion matrix shows classification performance across classes.
 
 ## 📜 References
 
-* [Network Intrusion Detection dataset](https://www.kaggle.com/datasets/benjaminvalentine/kddcup99)
+* [Network Intrusion Detection dataset](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection)
 * scikit-learn documentation
 * seaborn & matplotlib documentation
 
